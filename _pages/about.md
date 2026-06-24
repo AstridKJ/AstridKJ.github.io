@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Home"
+title: "Welcome!"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-# Astrid KJ
+# Astrid Jiang
 
-Welcome. I am a PhD student working at the intersection of **[research area placeholder]**, **[method or discipline placeholder]**, and **[broader question placeholder]**. This website collects my academic projects, publications, photography, and artistic work.
+Hi there! Welcome to my research and artwork hub! I'm a PhD student in the Harvard-MIT Health Sciences & Technology (HST) program with a research focus on vision restoration using brain computer interface technology such as visual prosthetics. My life revolves around the fanscinating visual world -- check out my photography and other artistic works that fuels my resarch and PhD life. 
 
 ## Current Focus
 
@@ -33,8 +33,8 @@ Selected artistic projects, creative practice, exhibitions, performances, or mix
 
 ## Contact
 
-Email: `your.email@example.edu`
+Email: `akjiang@mit.edu`
 
 GitHub: [AstridKJ](https://github.com/AstridKJ)
 
-LinkedIn: [LinkedIn profile placeholder](https://www.linkedin.com/in/your-linkedin-username/)
+LinkedIn: [LinkedIn profile placeholder](www.linkedin.com/in/astrid-k-jiang)
