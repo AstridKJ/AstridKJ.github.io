@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Photography"
+permalink: /photography/
+author_profile: true
+---
+
+{% include base_path %}
+
+This gallery is a placeholder for selected photography. Add images to `images/photography/` and create one Markdown file per series or photograph in `_photography/`.
+
+{% for post in site.photography reversed %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}

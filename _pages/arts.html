@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Arts"
+permalink: /arts/
+author_profile: true
+---
+
+{% include base_path %}
+
+This page is a placeholder for artistic works, creative projects, exhibitions, performances, and mixed-media practice. Add images to `images/arts/` and create one Markdown file per work or series in `_arts/`.
+
+{% for post in site.arts reversed %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
