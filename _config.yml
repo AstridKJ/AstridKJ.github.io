@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Astrid KJ"
+title                    : "Astrid Jiang"
 title_separator          : "-"
-name                     : &name "Astrid KJ"
-description              : &description "Research, photography, and artistic work by Astrid KJ"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Astrid Jiang"
+description              : &description "Research, photography, and artistic work by Astrid Jiang"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://AstridKJ.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,18 +24,18 @@ repository               : "AstridKJ/AstridKJ.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Astrid KJ"
+  name             : "Astrid Jiang"
   pronouns         : # example: "she/her"
-  bio              : "PhD student. Researcher. Photographer and artist. Replace this with a one- or two-sentence bio."
-  location         : "Location placeholder"
-  employer         : "Institution placeholder"
+  bio              : "PhD student in the Harvard-MIT Health Sciences & Technology program, focused on vision restoration and brain-computer interface technology."
+  location         : 
+  employer         : "Harvard-MIT Health Sciences & Technology"
   uri              : # URL
-  email            : "your.email@example.edu"
+  email            : "akjiang@mit.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/scholar?q=Astrid+Jiang"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "your-linkedin-username"
+  linkedin         : "astrid-k-jiang"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
