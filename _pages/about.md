@@ -9,7 +9,8 @@ redirect_from:
 
 # Astrid Jiang
 
-Hi there! Welcome to my research and artwork hub! I'm a PhD student in the Harvard-MIT Health Sciences & Technology (HST) program with a research focus on vision restoration using brain computer interface technology such as visual prosthetics. My life revolves around the fanscinating visual world -- check out my photography and other artistic works that fuels my resarch and PhD life. 
+Hi there! Welcome to my research and artwork hub! I'm a PhD student in the Harvard-MIT Health Sciences & Technology (HST) program with a research focus on vision restoration using brain computer interface technology such as visual prosthetics. My life revolves around the fanscinating visual world -- check out my photography and other artistic works that fuels my resarch and PhD life.   
+This website is clearly still under construction so please check back in a few weeks for updates!
 
 ## Current Focus
 
