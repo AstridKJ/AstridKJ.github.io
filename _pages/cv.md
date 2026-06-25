@@ -2,13 +2,14 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
 
+Page under construction 🚧 🔨
 This page is a web version of the CV. Add a PDF version to `files/` when ready and link it here.
 
 Education
