@@ -1,0 +1,20 @@
+{% include base_path %}
+{% assign gallery = site.data.photography.galleries | where: "id", include.gallery_id | first %}
+
+{% if gallery %}
+  <div class="photo-gallery-header">
+    <p>{{ gallery.description }}</p>
+    <a href="{{ base_path }}/photography/" class="photo-back-link">Back to photography</a>
+  </div>
+
+  <div class="photo-masonry" aria-label="{{ gallery.title }} gallery">
+    {% for photo in gallery.photos %}
+      <figure class="photo-frame">
+        <img src="{{ photo.image | prepend: '/images/' | prepend: base_path }}" alt="{{ photo.alt | default: photo.title }}">
+        <figcaption>{{ photo.title }}</figcaption>
+      </figure>
+    {% endfor %}
+  </div>
+{% else %}
+  <p>Gallery not found.</p>
+{% endif %}

@@ -1,0 +1,56 @@
+galleries:
+  - id: graduation
+    title: Graduation
+    description: "Portraits and moments from graduation celebrations."
+    cover: "500x300.png"
+    photos:
+      - title: "Graduation photo placeholder 1"
+        image: "500x300.png"
+      - title: "Graduation photo placeholder 2"
+        image: "500x300.png"
+      - title: "Graduation photo placeholder 3"
+        image: "500x300.png"
+      - title: "Graduation photo placeholder 4"
+        image: "500x300.png"
+
+  - id: event
+    title: Event
+    description: "Selected event photography, documentary coverage, and candid scenes."
+    cover: "500x300.png"
+    photos:
+      - title: "Event photo placeholder 1"
+        image: "500x300.png"
+      - title: "Event photo placeholder 2"
+        image: "500x300.png"
+      - title: "Event photo placeholder 3"
+        image: "500x300.png"
+      - title: "Event photo placeholder 4"
+        image: "500x300.png"
+
+  - id: landscape
+    title: Landscape
+    description: "Landscape, travel, and natural-light photography."
+    cover: "500x300.png"
+    photos:
+      - title: "Landscape photo placeholder 1"
+        image: "500x300.png"
+      - title: "Landscape photo placeholder 2"
+        image: "500x300.png"
+      - title: "Landscape photo placeholder 3"
+        image: "500x300.png"
+      - title: "Landscape photo placeholder 4"
+        image: "500x300.png"
+
+  - id: urbex
+    title: Urbex
+    description: "Urban exploration, built environments, and quiet architectural details."
+    cover: "500x300.png"
+    photos:
+      - title: "Urbex photo placeholder 1"
+        image: "500x300.png"
+      - title: "Urbex photo placeholder 2"
+        image: "500x300.png"
+      - title: "Urbex photo placeholder 3"
+        image: "500x300.png"
+      - title: "Urbex photo placeholder 4"
+        image: "500x300.png"

@@ -10,23 +10,24 @@ redirect_from:
 {% include base_path %}
 
 Page under construction 🚧 🔨
-This page is a web version of the CV. Add a PDF version to `files/` when ready and link it here.
 
 Education
 ======
 
-- PhD in [Program Placeholder], [University Placeholder], [expected year placeholder]
-- MA/MS in [Field Placeholder], [University Placeholder], [year placeholder]
-- BA/BS in [Field Placeholder], [University Placeholder], [year placeholder]
+- MA in Cognitive Science, Johns Hopkins University, 2025 - 2026
+- BS/MS combined in Neuroscience and Computer Science, Johns Hopkins University, 2020 - 2025
 
 Research Experience
 ======
 
-- **Research Assistant / Lab Role Placeholder**, [Institution Placeholder], [dates placeholder]  
-  Short description of responsibilities, methods, or project contributions.
+- Research Assistant  
+ **Neurosurgery, Massachusetts General Hospital**  2026 - present  
 
-- **Project Role Placeholder**, [Institution Placeholder], [dates placeholder]  
-  Short description of responsibilities, methods, or project contributions.
+- Graduate Student Researcher   
+**Cognitive Science, Johns Hopkins University**  2025 - 2026
+
+- Undergraduate/Graduate Research Assistant  
+**Low Vision Clinic, Wilmer Eye Institute**  2022 - 2025  
 
 Publications
 ======
@@ -34,6 +35,10 @@ Publications
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
+
+Presentations
+======
+
 
 Teaching and Mentoring
 ======
@@ -48,11 +53,6 @@ Selected Skills
 - Software, programming, analysis, or fieldwork skill placeholder
 - Language, communication, or creative skill placeholder
 
-Creative Work
-======
-
-- Photography project or series placeholder.
-- Artistic project, exhibition, performance, or publication placeholder.
 
 Service and Leadership
 ======

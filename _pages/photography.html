@@ -7,9 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-🚧 Page under construction 🚧
-This gallery is a placeholder for selected photography. Add images to `images/photography/` and create one Markdown file per series or photograph in `_photography/`.
+<p class="photo-intro">
+  A collection of selected photography across graduation, event, landscape, and urbex work.
+</p>
 
-{% for post in site.photography reversed %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+<div class="photo-gallery-grid" aria-label="Photography galleries">
+  {% for gallery in site.data.photography.galleries %}
+    <a class="photo-gallery-card" href="{{ gallery.id | prepend: '/photography/' | append: '/' | prepend: base_path }}">
+      <img src="{{ gallery.cover | prepend: '/images/' | prepend: base_path }}" alt="{{ gallery.title }} gallery cover">
+      <span class="photo-gallery-card-text">
+        <span class="photo-gallery-card-title">{{ gallery.title }}</span>
+        <span class="photo-gallery-card-description">{{ gallery.description }}</span>
+      </span>
+    </a>
+  {% endfor %}
+</div>
+
+<p class="contact">
+  For inquiries regarding photography, please contact me at <a href="mailto:akjiang@mit.edu">akjiang@mit.edu</a> with the subject line "Photography Inquiry". Thank you for your interest in my work!
+</p>
