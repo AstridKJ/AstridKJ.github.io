@@ -9,12 +9,15 @@ redirect_from:
 
 # About Me
 
+Some pages on this site is still under construction 🚧🚧🚧, please check back in a few weeks for updates!  
+  
 Hi there! Welcome to my research and artwork hub! I'm a PhD student in the Harvard-MIT Health Sciences & Technology (HST) program with a research focus on vision restoration using brain computer interface technology such as visual prosthetics. My life revolves around the fanscinating visual world -- check out my photography and other artistic works that fuels my resarch and PhD life.   
-This website is clearly still under construction so please check back in a few weeks for updates!
+  
+I actively provide photo services to student groups and graduating class. To book a photo session with me, please check the [photography](/photography/) page.
 
 ## Featured Sections
 
-**[Research](/resaerch/)**  
+**Research**  
 Ongoing and past academic projects:
 - **(New) Electrophysiology modeling of RGC and V1 neurons** 
 - **Human psychophysics of visual cortical prosthesis** 
@@ -29,7 +32,7 @@ Event photography, portraits, landscapes, and more! My photo services include:
 - Student/club events
 - Personal photoshoots
 
-**[Arts](/arts/)**  
+**Arts**  
 Selected artistic projects, creative practice, exhibitions, performances, or mixed-media work.
 
 ## Contact
@@ -38,4 +41,4 @@ Email: `akjiang@mit.edu`
 
 GitHub: [AstridKJ](https://github.com/AstridKJ)
 
-LinkedIn: [astrid-k-jiang](www.linkedin.com/in/astrid-k-jiang)
+LinkedIn: [astrid-k-jiang](https://www.linkedin.com/in/astrid-k-jiang)

@@ -1,56 +1,63 @@
 galleries:
-  - id: graduation
-    title: Graduation
-    description: "Portraits and moments from graduation celebrations."
-    cover: "500x300.png"
+  - id: graduation-and-events
+    title: "Graduation and Events"
+    description: "Portraits, celebrations, performances, and documentary moments from graduation and event photography."
+    cover: "photography/graduation-and-events/cover.jpg"
+    cover_orientation: horizontal
     photos:
-      - title: "Graduation photo placeholder 1"
-        image: "500x300.png"
-      - title: "Graduation photo placeholder 2"
-        image: "500x300.png"
-      - title: "Graduation photo placeholder 3"
-        image: "500x300.png"
-      - title: "Graduation photo placeholder 4"
-        image: "500x300.png"
+      - title: "Graduation portrait"
+        image: "photography/graduation-and-events/grad_photo_1.jpg"
+        orientation: horizontal
+      - title: "Graduation celebration"
+        image: "photography/graduation-and-events/grad_photo_2.jpg"
+        orientation: horizontal
+      - title: "Graduation celebration"
+        image: "photography/graduation-and-events/grad_photo_3.jpg"
+        orientation: horizontal
+      - title: "Band performance"
+        image: "photography/graduation-and-events/event_1_parade.jpg"
+        orientation: horizontal
+      - title: "Band performance"
+        image: "photography/graduation-and-events/event_2_parade.jpg"
+        orientation: horizontal
+      - title: "Graduation portrait"
+        image: "photography/graduation-and-events/cover.jpg"
+        orientation: horizontal
+      - title: "Fire spinning"
+        image: "photography/graduation-and-events/fire_spinning2.jpg"
+        orientation: vertical
+      - title: "Fire spinning"
+        image: "photography/graduation-and-events/fire_spinning1.jpg"
+        orientation: vertical
 
-  - id: event
-    title: Event
-    description: "Selected event photography, documentary coverage, and candid scenes."
-    cover: "500x300.png"
-    photos:
-      - title: "Event photo placeholder 1"
-        image: "500x300.png"
-      - title: "Event photo placeholder 2"
-        image: "500x300.png"
-      - title: "Event photo placeholder 3"
-        image: "500x300.png"
-      - title: "Event photo placeholder 4"
-        image: "500x300.png"
 
-  - id: landscape
-    title: Landscape
-    description: "Landscape, travel, and natural-light photography."
-    cover: "500x300.png"
+  - id: others
+    title: "Others"
+    description: "Landscape, urbex, travel, natural-light studies, and other visual experiments."
+    cover: "photography/others/cover.jpg"
+    cover_orientation: horizontal
     photos:
-      - title: "Landscape photo placeholder 1"
-        image: "500x300.png"
-      - title: "Landscape photo placeholder 2"
-        image: "500x300.png"
-      - title: "Landscape photo placeholder 3"
-        image: "500x300.png"
-      - title: "Landscape photo placeholder 4"
-        image: "500x300.png"
-
-  - id: urbex
-    title: Urbex
-    description: "Urban exploration, built environments, and quiet architectural details."
-    cover: "500x300.png"
-    photos:
-      - title: "Urbex photo placeholder 1"
-        image: "500x300.png"
-      - title: "Urbex photo placeholder 2"
-        image: "500x300.png"
-      - title: "Urbex photo placeholder 3"
-        image: "500x300.png"
-      - title: "Urbex photo placeholder 4"
-        image: "500x300.png"
+      - title: "Mountains"
+        image: "photography/others/cover.jpg"
+        orientation: horizontal
+      - title: "Paint"
+        image: "photography/others/walls.jpg"
+        orientation: horizontal
+      - title: "Evening forest"
+        image: "photography/others/forest.jpg"
+        orientation: horizontal
+      - title: "Glacier"
+        image: "photography/others/glacier_1.jpg"
+        orientation: vertical
+      - title: "Glacier"
+        image: "photography/others/glacier_2.jpg"
+        orientation: vertical
+      - title: "Coffee shop"
+        image: "photography/others/coffee.jpg"
+        orientation: vertical
+      - title: "Falls"
+        image: "photography/others/falls.jpg"
+        orientation: vertical
+      - title: "Sequoia"
+        image: "photography/others/tree.jpg"
+        orientation: vertical

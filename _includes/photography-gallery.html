@@ -9,7 +9,7 @@
 
   <div class="photo-masonry" aria-label="{{ gallery.title }} gallery">
     {% for photo in gallery.photos %}
-      <figure class="photo-frame">
+      <figure class="photo-frame photo-frame--{{ photo.orientation | default: 'horizontal' }}">
         <img src="{{ photo.image | prepend: '/images/' | prepend: base_path }}" alt="{{ photo.alt | default: photo.title }}">
         <figcaption>{{ photo.title }}</figcaption>
       </figure>

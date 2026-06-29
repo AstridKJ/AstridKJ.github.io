@@ -11,17 +11,11 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
-    url: /research/
-
   - title: "Publications"
     url: /publications/
 
   - title: "Photography"
     url: /photography/
-
-  - title: "Arts"
-    url: /arts/
 
   - title: "CV"
     url: /cv/

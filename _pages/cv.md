@@ -9,52 +9,73 @@ redirect_from:
 
 {% include base_path %}
 
-Page under construction 🚧 🔨
-
 Education
 ======
 
-- MA in Cognitive Science, Johns Hopkins University, 2025 - 2026
-- BS/MS combined in Neuroscience and Computer Science, Johns Hopkins University, 2020 - 2025
+- **M.A. in Cognitive Science**, Johns Hopkins University, 2025 - 2026
+- **M.S. in Neuroscience**, Johns Hopkins University, 2024 - 2025
+- **B.S. in Neuroscience and Computer Science, Minor in Visual Arts**, Johns Hopkins University, 2020 - 2024
 
 Research Experience
 ======
 
-- Research Assistant  
- **Neurosurgery, Massachusetts General Hospital**  2026 - present  
+### Visual Integration, Recognition, and Lateralization of Human Social Vision
 
-- Graduate Student Researcher   
-**Cognitive Science, Johns Hopkins University**  2025 - 2026
+**Research Assistant**, Isik Lab, Johns Hopkins University  
+2025 - 2026
 
-- Undergraduate/Graduate Research Assistant  
-**Low Vision Clinic, Wilmer Eye Institute**  2022 - 2025  
+
+### Electrode Interaction Analysis and Sub-Array Phosphene Mapping in Intracortical Visual Prosthesis
+
+**Research Assistant**, Ultra Low Vision Lab, Wilmer Eye Institute, Johns Hopkins Medicine  
+2022 - 2025
 
 Publications
 ======
 
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+{% assign cv_publications = site.publications | where: "category", "publications" | sort: "date" | reverse %}
+{% if cv_publications.size > 0 %}
+<ul>
+{% for post in cv_publications %}
+  <li><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+{% else %}
+No publications listed yet.
+{% endif %}
 
 Presentations
 ======
 
+{% assign cv_presentations = site.publications | where: "category", "presentations" | sort: "date" | reverse %}
+{% if cv_presentations.size > 0 %}
+<ul>
+{% for post in cv_presentations %}
+  <li><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+{% else %}
+No presentations listed yet.
+{% endif %}
 
 Teaching and Mentoring
 ======
 
-- Course, workshop, mentorship, or teaching role placeholder.
-- Course, workshop, mentorship, or teaching role placeholder.
+- **Study Consultant and Advisory Board, Study Consulting Program**, Johns Hopkins University, 2022 - 2025  
 
-Selected Skills
-======
+- **Teaching Assistant, Linear Algebra and Differential Equations**, Johns Hopkins University, 2022 - 2024  
 
-- Method or technical skill placeholder
-- Software, programming, analysis, or fieldwork skill placeholder
-- Language, communication, or creative skill placeholder
+- **Teaching Assistant, Linear Algebra and Data Science**, Johns Hopkins University, 2023
+
+- **Teaching Assistant, Computer Science and Psychology**,  Center for Talented Youth, 2023 and 2024 Summer  
 
 
 Service and Leadership
 ======
 
-- Departmental, community, outreach, organizing, or leadership role placeholder.
+- **Publicity Chair, JHU Photography Club**, 2024 - 2025  
+  JHU Photography Team member
+- **Vice President, JHU Chinese Students and Scholars Association**, 2021 - 2024  
+  
+- **Publicity Chair, Johns Hopkins Undergraduate Brain Computer Interface Society**, 2021 - 2022  
+

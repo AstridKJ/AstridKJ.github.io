@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 🚧 Page under construction 🚧 
-This page is a backbone for your academic projects. Replace the placeholders with project summaries, collaborators, methods, links, datasets, code, talks, or papers.
 
 ## Research Interests
 
@@ -37,7 +36,3 @@ Briefly describe the research question, why it matters, and your role.
 - **Past project placeholder:** Short description of the project and outcome.
 - **Past project placeholder:** Short description of the project and outcome.
 
-## Research Materials
-
-- Add a CV PDF to `files/` when ready.
-- [GitHub profile](https://github.com/AstridKJ)
