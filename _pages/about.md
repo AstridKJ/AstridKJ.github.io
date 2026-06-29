@@ -9,9 +9,9 @@ redirect_from:
 
 # About Me
 
-Some pages on this site is still under construction 🚧🚧🚧, please check back in a few weeks for updates!  
+Some pages on this site are still under construction 🚧🚧🚧, please check back in a few weeks for updates!  
   
-Hi there! Welcome to my research and artwork hub! I'm a PhD student in the Harvard-MIT Health Sciences & Technology (HST) program with a research focus on vision restoration using brain computer interface technology such as visual prosthetics. My life revolves around the fanscinating visual world -- check out my photography and other artistic works that fuels my resarch and PhD life.   
+Hi there! Welcome to my research and artwork hub! I'm a PhD student in the Harvard-MIT Health Sciences & Technology (HST) program with a research focus on vision restoration using brain computer interface technology such as visual prosthetics. My life revolves around the fanscinating visual world -- check out my photography and other artistic works that fuels my research and PhD life.   
   
 I actively provide photo services to student groups and graduating class. To book a photo session with me, please check the [photography](/photography/) page.
 
@@ -31,9 +31,6 @@ Event photography, portraits, landscapes, and more! My photo services include:
 - Graduation photoshoots
 - Student/club events
 - Personal photoshoots
-
-**Arts**  
-Selected artistic projects, creative practice, exhibitions, performances, or mixed-media work.
 
 ## Contact
 
