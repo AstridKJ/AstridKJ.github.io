@@ -1,11 +1,19 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2026-06-06
 ---
 
 {% include base_path %}
 {% include toc %}
+
+## Copyright and License
+
+The website code, theme code, layouts, styles, and other software components inherited from or adapted from Academic Pages and Minimal Mistakes are licensed under the MIT License.
+
+Unless otherwise stated, the personal content on this site is not licensed for reuse. This includes biography text, research descriptions, CV content, publication and presentation descriptions, photographs, artwork, images, PDFs, and other media.
+
+Personal content is copyright © Astrid Jiang. All rights reserved.
 
 ## Privacy Policy
 
