@@ -3,6 +3,8 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
+sitemap: false
+robots: noindex, nofollow
 ---
 
 🚧 Page under construction 🚧 
@@ -35,4 +37,3 @@ Briefly describe the research question, why it matters, and your role.
 
 - **Past project placeholder:** Short description of the project and outcome.
 - **Past project placeholder:** Short description of the project and outcome.
-

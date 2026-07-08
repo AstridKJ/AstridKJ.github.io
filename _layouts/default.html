@@ -9,7 +9,9 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <meta name="google-site-verification" content="Ilwbq5WMnGuNCByzJRvx_Kapw39I0xmCP5UH4zWtHVo" />
+    {% if page.robots %}
+      <meta name="robots" content="{{ page.robots }}">
+    {% endif %}
   </head>
 
   <body>
